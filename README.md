@@ -5,4 +5,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## IMPORTANT
 
 Before running the app, make sure to install react-router-dom!!!!
-<npm i react-router-dom>
+"npm i react-router-dom" in the terminal.
