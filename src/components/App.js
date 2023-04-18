@@ -1,5 +1,5 @@
 import React from 'react';
-import stockData from './stock-data';
+import stockData from './stockdata.js';
 import Header from './Header';
 import Main from './Main';
 import { withRouter } from 'react-router';
